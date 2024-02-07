@@ -1,12 +1,12 @@
-package C12;
+package DAY12;
 
 
 
 import java.util.ArrayList;
 import java.util.List;
 
-import static C12.Async.executingAsynchronously;
-import static C12.Async.executingConcurrently;
+import static DAY12.Async.executingAsynchronously;
+import static DAY12.Async.executingConcurrently;
 
 
 public class Main{

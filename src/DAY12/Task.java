@@ -1,7 +1,4 @@
-package C12;
-
-import java.util.List;
-import java.util.UUID;
+package DAY12;
 
 public class Task {
     private long taskId;

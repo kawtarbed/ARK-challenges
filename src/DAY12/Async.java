@@ -1,4 +1,4 @@
-package C12;
+package DAY12;
 
 import java.util.List;
 import java.util.concurrent.CompletableFuture;
